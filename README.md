@@ -4,10 +4,10 @@
 
 ## I'm a Student and a Developer !!
 
-- Mostly busy finding something new to learn.
+- Mostly busy finding something new to learn, occasionally end up distracting myself in the process as well.
 - I am currently learning Web Developemnt.
 - Love reading 📔, watching movies 🎥 and playting Guitar 🎸.
-- Reach out to me regarding opportunities, queries or projects
+- Reach out to me regarding opportunities, queries or projects.
 
 
 ### Connect with me:
