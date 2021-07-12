@@ -12,14 +12,14 @@
 
 ### Connect with me:
 
-<span>[<img align="left" alt="" width="42px" style={color:white} src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />]
-<span>[<img align="left" alt="" width="42px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/sankalp-saxena-1147011b3/)</span>
+[<img align="left" alt="" width="42px" style={color:white} src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://portfolio-website-eight-nu.vercel.app/)
+[<img align="left" alt="" width="42px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/sankalp-saxena-1147011b3/)
 
 <br />
 
 ### Languages and Tools:
 
-<img  alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> 
+<img  alt="Visual Studio Code" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> 
 <img  alt="HTML5" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img  alt="CSS3" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img  alt="Sass" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
