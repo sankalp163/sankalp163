@@ -1,14 +1,13 @@
-### Hi there, I'm Sankalp [][website] 👋
+### Hi there 👋
 
 
 
-## I'm a Developer !!
+## I'm a Student and a Developer !!
 
--  
-- 
-- 
-- 
--  
+- Mostly busy finding something new to learn.
+- I am currently learning Web Developemnt.
+- Love reading, watching movies and playting Guitar.
+- Reach out to me regarding opportunities, queries or projects
 
 
 ### Connect with me:
@@ -46,10 +45,10 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
 </details>
 
-[website]: 
+[website]: https://portfolio-website-gray-tau.vercel.app/
 [instagram]: 
-[linkedin]:
+[linkedin]:https://www.linkedin.com/in/sankalp-saxena-1147011b3/
