@@ -5,7 +5,7 @@
 ## I'm a Student and a Developer !!
 
 - Mostly busy finding something new to learn, occasionally end up distracting myself in the process as well :sweat_smile:.
-- I am currently learning Web Developemnt, primarily focussing on React. Equally fascinated by DSA problems.
+- I am currently learning Web Development, primarily focussing on React. Equally fascinated by DSA problems.
 - Love reading 📔, watching movies 🎥 and playing Guitar 🎸.
 - Reach out to me regarding opportunities, queries or projects.
 
