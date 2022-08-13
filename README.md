@@ -1,8 +1,6 @@
-### Hi there 👋
+![Header](https://user-images.githubusercontent.com/56267419/184511725-4bd18ea5-f8aa-4784-b7f0-7ceab2a205aa.png)
 
 
-
-## I'm a Student and a Developer !!
 
 - Mostly busy finding something new to learn, occasionally end up distracting myself in the process as well :sweat_smile:.
 - I am currently learning Web Development, primarily focussing on React. Equally fascinated by DSA problems.
